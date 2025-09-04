@@ -1,2 +1,2 @@
 class method:
-  pass 
+  def __init__(self):
